@@ -27,7 +27,7 @@
  
  
  
- ![Snake animation](https://github.com/SEUGIT/SEUGIT/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
     <a href="https://www.linkedin.com/in/heitor-da-silva-giacomini-2b281ab4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
