@@ -7,7 +7,7 @@
 </div>
 
 #### Sobre Mim
-⚡ - &nbsp; Cursando de Análise e Desenvolvimento de Sistemas
+⚡ - &nbsp; Cursando de Análise e Desenvolvimento de Sistemas <br>
 :books: - &nbsp; Estudando mais backend 
  
  
