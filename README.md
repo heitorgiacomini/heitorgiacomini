@@ -3,8 +3,8 @@
 
 <div>
  <a href="https://github.com/heitorgiacominibrasil">
-  <img height="165em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=heitorgiacominibrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="178em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgiacominibrasil&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="165em" style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=heitorgiacominibrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="178em" style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorgiacominibrasil&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 #### Sobre Mim
