@@ -29,11 +29,10 @@
   <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
- <div> 
-  
-#### Onde me Encontrar
-  
-    <a href="https://www.linkedin.com/in/heitor-da-silva-giacomini-2b281ab4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ #### Onde me Encontrar
+ 
+ <div><a href="https://www.linkedin.com/in/heitor-da-silva-giacomini-2b281ab4/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/user/Heithor1945/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
