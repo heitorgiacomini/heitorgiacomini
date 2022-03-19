@@ -39,6 +39,7 @@
 
 #### Atividade
 ![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
+ <br/>
 ![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
 
 
