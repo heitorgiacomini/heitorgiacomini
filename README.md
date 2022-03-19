@@ -36,9 +36,10 @@
  <a href="https://www.youtube.com/user/Heithor1945/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
- ![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
-  #### Atividade
- ![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
+
+#### Atividade
+![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
+![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
 
 
 
