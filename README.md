@@ -8,7 +8,7 @@
 </div>
 
 #### Sobre Mim
-⚡ - &nbsp; Cursando de Análise e Desenvolvimento de Sistemas   
+⚡ - &nbsp; Desenvolvedor C# FullStack 
  
   
  #### Linguagens e Ferramentas
