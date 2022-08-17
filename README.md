@@ -8,9 +8,7 @@
 </div>
 
 #### Sobre Mim
-⚡ - &nbsp; Cursando de Análise e Desenvolvimento de Sistemas <br>
-:books: - &nbsp; Estudando mais backend 
- 
+⚡ - &nbsp; Cursando de Análise e Desenvolvimento de Sistemas   
  
   
  #### Linguagens e Ferramentas
@@ -32,12 +30,15 @@
  <a href="https://www.youtube.com/user/Heithor1945/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
+ 
+![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
 
 #### Atividade
 ![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
  <br/>
-![Snake animation](https://github.com/heitorgiacominibrasil/heitorgiacominibrasil/blob/output/github-contribution-grid-snake.svg)
-
+ 
+ Livros Lidos:
+ Clean Code, Serious Cryptography: A Practical Introduction to Modern Encryption, MABP
 
 
 
