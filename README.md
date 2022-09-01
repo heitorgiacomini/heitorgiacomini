@@ -38,7 +38,7 @@
  <br/>
  
  Livros Lidos:
- Clean Code, Serious Cryptography: A Practical Introduction to Modern Encryption, Mastering ABP Framework
+ Clean Code, Serious Cryptography: A Practical Introduction to Modern Encryption, Mastering ABP Framework, C# para Iniciantes
 
 
 
