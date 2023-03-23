@@ -36,11 +36,9 @@
 ![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
  <br/>
  
- Livros Lidos:
- Clean Code, Serious Cryptography: A Practical Introduction to Modern Encryption, Mastering ABP Framework, C# para Iniciantes
-
-<div align="center">
-    <img src="livros.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
+ | Livros Lidos |
+| ------ |
+| Clean Code | [plugins/dropbox/README.md][PlDb] |
+| Serious Cryptography: A Practical Introduction to Modern Encryption |
+| Mastering ABP Framework |
+| C# para Iniciantes |
