@@ -42,9 +42,10 @@
 ![](https://komarev.com/ghpvc/?username=heitorgiacominibrasil)
  <br/>
  
- | Livros Lidos |
+ | Livros |
 | ------ |
 | Clean Code | [plugins/dropbox/README.md][PlDb] |
 | Serious Cryptography: A Practical Introduction to Modern Encryption |
 | Mastering ABP Framework |
 | C# para Iniciantes |
+| Solution Architecture with .NET |
