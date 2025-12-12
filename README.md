@@ -7,6 +7,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heitorgiacomini&layout=compact&langs_count=20&theme=merko"/>
 </div>
 
+ <div>
+ [![HeitorGiacomini StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6337308)](https://stackoverflow.com/users/6337308/heitor-giacomini)
+</div>
 #### Sobre Mim
 ⚡ - &nbsp; Desenvolvedor C# FullStack 
  
