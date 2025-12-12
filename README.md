@@ -6,9 +6,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heitorgiacomini&layout=compact&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heitorgiacomini&layout=compact&langs_count=20&theme=merko"/>
 </div>
-
- <div>
- [![HeitorGiacomini StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6337308)](https://stackoverflow.com/users/6337308/heitor-giacomini)
+  
+<div>
+ <a
+  href="https://stackoverflow.com/users/6337308/heitor-giacomini" target="_blank"><img alt="StackOverflow user information"
+  src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/6337308">
+ </a>
 </div>
 #### Sobre Mim
 ⚡ - &nbsp; Desenvolvedor C# FullStack 
